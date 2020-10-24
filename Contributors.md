@@ -18935,4 +18935,4 @@ rehan
 - [Frank Harvey McManus](https://github.com/thefrankharvey)
 - [mpnigh]
 - [Smit](https://github.com/smit666)
-
+- [Nick Dennis](https://github.com/NickDennis2580)
